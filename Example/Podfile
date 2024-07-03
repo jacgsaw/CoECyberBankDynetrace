@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CoECyberBankDynetrace_Example' do
+  pod 'CoECyberBankDynetrace', :path => '../'
+
+  target 'CoECyberBankDynetrace_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
