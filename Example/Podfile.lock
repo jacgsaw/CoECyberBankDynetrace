@@ -1,0 +1,16 @@
+PODS:
+  - CoECyberBankDynetrace (0.1.0)
+
+DEPENDENCIES:
+  - CoECyberBankDynetrace (from `../`)
+
+EXTERNAL SOURCES:
+  CoECyberBankDynetrace:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoECyberBankDynetrace: d6eaedc6618e8c141f0296532e72c5105d9dd7d6
+
+PODFILE CHECKSUM: d256bacda473bdcb778592acae9fc1cd53aa73ee
+
+COCOAPODS: 1.14.2

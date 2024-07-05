@@ -1,0 +1,6 @@
+framework module Pods_CoECyberBankDynetrace_Example {
+  umbrella header "Pods-CoECyberBankDynetrace_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

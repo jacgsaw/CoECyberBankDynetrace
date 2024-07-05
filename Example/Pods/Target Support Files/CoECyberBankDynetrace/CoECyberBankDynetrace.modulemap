@@ -1,0 +1,6 @@
+framework module CoECyberBankDynetrace {
+  umbrella header "CoECyberBankDynetrace-umbrella.h"
+
+  export *
+  module * { export * }
+}
