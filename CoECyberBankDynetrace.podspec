@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/jacgsaw/CoECyberBankDynetrace'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Jose Alexander Cruz Gonzalez' => 'jose.cruz@davivienda.com' }
+  s.author           = { 'Alexander Cruz Gonzalez' => 'alex@jacgx.com' }
   s.source           = { :git => 'https://github.com/jacgsaw/CoECyberBankDynetrace.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
