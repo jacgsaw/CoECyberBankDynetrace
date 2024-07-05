@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CoECyberBankDynetrace'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Api Pod para de Dynatrace para Davivienda.'
   s.swift_versions   = '5.0'
 
